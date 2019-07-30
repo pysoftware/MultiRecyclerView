@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiRecyclerView</string>
+    <string name="sample_text">Sample text</string>
+</resources>
